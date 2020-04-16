@@ -1,0 +1,4 @@
+red
+blue
+wjite
+git
